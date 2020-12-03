@@ -1,0 +1,68 @@
+body{
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    font-family: monospace;
+}
+header{
+    min-height: 50px;
+    background-color: red;
+}
+.main-sec{
+    overflow: hidden;
+}
+.blog{
+    width: 50%;
+    min-height: 500px;
+    background-color: royalblue;
+    float: left;
+}
+.contact{
+    width: 50%;
+    min-height: 500px;
+    background-color: rgb(15, 121, 94);
+    float: right;
+}
+footer{
+    min-height:60px;
+    background-color: rgb(6, 18, 53);
+}
+
+/* 3content css start */
+.section{
+    width: 33.33%;
+    min-height: 400px;
+    float: left;
+}
+.red{
+    background-color: rgb(216, 84, 84);
+}
+.green{
+    background-color: rgb(15, 121, 94);
+}
+.grey{
+    background-color: slategray;
+}
+/* 4 content css start */
+
+.section2{
+    width: 25%;
+    min-height: 400px;
+    float:left;
+}
+.red{
+    background-color: violet;
+}
+
+.pink{
+    background-color: steelblue;
+}
+
+.marron{
+    background-color: maroon;
+}
+.black{
+    background-color: navy;
+}
+/* 4content css end */
